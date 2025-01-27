@@ -3,11 +3,6 @@
 
 This **Interactive Hotel Dashboard** was created in Quicksight using a mock dataset, generated using Python in VS Code.
 
-### Link to Dashboard: 
-
-https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/54044998-9eea-42ff-affe-1c92abbc110e/views/9d5ce851-9f24-4033-afe2-72f0196ebe25?directory_alias=NoahMorgenstein
-
-
 ### Dashboard Specs
 *  The dashboard includes Occupancy Rate with an automatic running line average, an Occupancy Gauge, ADR, RevPAR, and RevExtras over time, and KPIs for Cancellations, Booked Rooms, and Total Charges.
 *  By Selecting a date in the Occupancy Rate figure, all other figures will update to match the corresponding data.
